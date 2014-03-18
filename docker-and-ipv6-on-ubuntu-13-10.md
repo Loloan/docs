@@ -1,3 +1,4 @@
+﻿#黄萌萌
 ##Docker and IPv6 on Ubuntu 13.10   Saucy  Salamander
 ##在Ubuntu 13.10 上的Docker and IPv6  Saucy  Salamander
   After making myself familiar with Docker I wanted to use it on a more recent Ubuntu 13.10 release. I still didn't install Docker natively on my pc, but use a Vagrant box to play with fresh releases. After downloading a fresh Ubuntu 13.10 image, creating a VirtualBox image and installing the current Docker release 0.8.0, I tried to use my other little toys CouchDB and Elasticsearch in Docker containers. Sadly, I couldn't connect to the exposed ports anymore.
